@@ -1155,3 +1155,441 @@ Awareness Today · Action Tomorrow · Impact Forever
 GGTC.info_GLOBAL_LINGUISTIC_INFRASTRUCTURE_REGISTRY_V001
 Repository Navigation Infrastructure
 May 17, 2026
+
+# GLOSSARY.md
+
+# GGTC.info Global Linguistic Infrastructure Glossary
+
+## Repository
+GGTC.info_GLOBAL_LINGUISTIC_INFRASTRUCTURE_REGISTRY_V001
+
+---
+
+## Repository Status
+ACTIVE INITIALIZATION
+
+---
+
+## GGTC.info Log Book Entry
+
+### Date
+May 17, 2026
+
+### GGTC.info Time
+19:44
+
+### Entry Type
+Glossary Infrastructure Initialization
+
+### Status
+ACTIVE
+
+---
+
+# Purpose
+
+This glossary establishes standardized terminology for the:
+
+**GGTC.info Global Linguistic Infrastructure Registry**
+
+The purpose of this file is to:
+
+- normalize terminology
+- reduce interpretation drift
+- improve contributor continuity
+- support semantic synchronization
+- strengthen machine-readable consistency
+- improve onboarding clarity
+- maintain governance alignment
+
+This glossary functions as part of the repository’s:
+
+- semantic governance layer
+- documentation continuity system
+- contributor synchronization framework
+
+---
+
+# Core Linguistic Infrastructure Terms
+
+---
+
+## Administrative Language
+
+A language formally used by governments, legal systems, educational systems, or institutional infrastructure.
+
+Administrative languages may differ from dominant spoken languages.
+
+### Example
+French in Haiti.
+
+---
+
+## Dominant Spoken Language
+
+The language most commonly used in everyday communication within a territory or population.
+
+A dominant spoken language may not hold official legal status.
+
+### Example
+Haitian Creole in Haiti.
+
+---
+
+## Indigenous Language
+
+A language historically connected to the original populations of a territory before colonial or external linguistic overlay.
+
+Indigenous languages are treated as foundational continuity systems within the GGTC infrastructure model.
+
+---
+
+## Heritage Language
+
+A language preserved through cultural continuity, ancestry, migration, or diaspora communities.
+
+---
+
+## Creole Language
+
+A fully developed language formed through sustained contact between multiple language systems.
+
+Creoles are treated as complete linguistic systems and not simplified variants of another language.
+
+### Example
+Haitian Creole
+Tok Pisin
+Papiamento
+
+---
+
+## Contact Language
+
+A language developed or adopted to facilitate communication between groups with different native languages.
+
+---
+
+## Lingua Franca
+
+A bridge language used between populations that do not share a native language.
+
+### Example
+English in international aviation.
+
+---
+
+## Language Family
+
+A classification grouping languages that share historical linguistic ancestry.
+
+### Examples
+- Indo-European
+- Niger-Congo
+- Austronesian
+- Sino-Tibetan
+
+---
+
+## Language Continuum
+
+A chain of related language varieties where neighboring varieties are mutually understandable, but distant varieties may not be.
+
+---
+
+## Endangered Language
+
+A language at risk of losing fluent speakers or long-term continuity.
+
+---
+
+## Revitalization
+
+The process of restoring or strengthening language use after decline or suppression.
+
+---
+
+# Governance + Semantic Infrastructure Terms
+
+---
+
+## Canonical Infrastructure
+
+A governance-approved structural system recognized as authoritative within the GGTC.info ecosystem.
+
+---
+
+## Governance Synchronization
+
+The process of maintaining structural consistency across:
+
+- repositories
+- doctrine systems
+- semantic systems
+- documentation layers
+- operational frameworks
+
+---
+
+## Semantic Continuity
+
+The preservation of terminology, conceptual meaning, structural consistency, and operational interpretation across ecosystem systems.
+
+---
+
+## Continuity Systems
+
+Systems designed to preserve:
+
+- operational continuity
+- archive integrity
+- semantic consistency
+- documentation structure
+- long-term infrastructure persistence
+
+---
+
+## Archive Continuity
+
+The preservation of repository history, documentation sequencing, structural evolution, and historical reconstruction capability.
+
+---
+
+## Structured Publishing
+
+A publishing methodology emphasizing:
+
+- semantic clarity
+- structured hierarchy
+- navigation continuity
+- machine readability
+- discoverability
+
+---
+
+## Better Reading
+
+A GGTC.info publishing principle focused on:
+
+- readability
+- continuity
+- structured navigation
+- semantic clarity
+- long-form discoverability
+
+---
+
+## Semantic Infrastructure
+
+The interconnected terminology, structure, metadata, indexing systems, and relationships that support discoverability and continuity across the ecosystem.
+
+---
+
+## Operational Traceability
+
+The ability to reconstruct:
+
+- repository evolution
+- governance decisions
+- dataset modifications
+- structural changes
+- continuity sequencing
+
+through documentation and timestamp preservation.
+
+---
+
+# Dataset Infrastructure Terms
+
+---
+
+## Row-Level Source Locking
+
+A verification model where each dataset row is directly connected to at least one authoritative source reference.
+
+---
+
+## Verification Tier
+
+A classification describing source strength and verification reliability.
+
+### Tier Structure
+
+| Tier | Meaning |
+|---|---|
+| Tier 1 | Direct authoritative source |
+| Tier 2 | Verified secondary authority |
+| Tier 3 | Compiled general reference |
+| Tier 4 | Provisional / review required |
+
+---
+
+## Source Authority
+
+An approved institutional, governmental, academic, or technical reference source used for validation.
+
+---
+
+## Machine-Readable Infrastructure
+
+Repository structures designed for:
+
+- AI parsing
+- schema validation
+- API integration
+- structured export systems
+- semantic indexing
+
+---
+
+## Dataset Normalization
+
+The process of standardizing dataset structure, naming, formatting, and verification systems.
+
+---
+
+## Lifecycle Status
+
+The operational condition of a language or infrastructure system.
+
+### Examples
+- active
+- endangered
+- revitalizing
+- extinct
+- reconstructed
+
+---
+
+# Repository Infrastructure Terms
+
+---
+
+## Live Build
+
+A repository actively under structured development while remaining publicly accessible.
+
+---
+
+## Distribution Release
+
+A repository state where the system is considered structurally stable enough for public synchronization and external visibility.
+
+---
+
+## Synchronization Layer
+
+A system responsible for maintaining continuity between:
+
+- repositories
+- domains
+- governance systems
+- documentation layers
+- semantic infrastructure
+
+---
+
+## Ecosystem Infrastructure
+
+The interconnected operational environment formed by:
+
+- repositories
+- governance systems
+- publishing systems
+- archive systems
+- semantic frameworks
+- synchronization systems
+
+---
+
+# Visual Governance Terms
+
+---
+
+## Visual Continuity
+
+The maintenance of recognizable structural visual systems across ecosystem environments.
+
+---
+
+## Infrastructure Imagery
+
+Images, diagrams, maps, and visual systems documenting ecosystem continuity and operational structure.
+
+---
+
+## Continuity Capture
+
+The process of visually documenting infrastructure evolution, operational states, and repository continuity.
+
+---
+
+# Time + Continuity Terms
+
+---
+
+## Timestamp Continuity
+
+The preservation of date/time markers throughout documentation to support:
+
+- historical reconstruction
+- governance auditing
+- contributor synchronization
+- continuity tracking
+- AI contextual parsing
+
+---
+
+## Operational Sequencing
+
+The chronological ordering of repository development, governance updates, and structural evolution.
+
+---
+
+# Ecosystem Synchronization Domains
+
+This repository supports synchronization with:
+
+- GGTC.info
+- GGTCGLOBALMEDIA.com
+- GGTCPUBLISHING.com
+- GGTCAI.global
+- GGTCUNIVERSE.com
+- GGTCMULTIMULTIVERSE.com
+- GGTCSTEMTRAINING.com
+- GGTCGLOBALAI.com
+- Quibhoball.com
+
+---
+
+# Operational Note
+
+This glossary is expected to expand as:
+
+- datasets grow
+- governance systems evolve
+- semantic infrastructure increases
+- machine-readable systems expand
+- continuity architecture matures
+
+Future glossary additions should preserve:
+- semantic consistency
+- governance alignment
+- contributor clarity
+- machine readability
+
+---
+
+# Official System Signature
+
+GGTC.info  
+Structured Systems · Global Learning · Continuous Development
+
+Awareness Today · Action Tomorrow · Impact Forever
+
+---
+
+# END OF GLOSSARY
+
+GGTC.info_GLOBAL_LINGUISTIC_INFRASTRUCTURE_REGISTRY_V001
+Semantic Continuity Infrastructure
+May 17, 2026
