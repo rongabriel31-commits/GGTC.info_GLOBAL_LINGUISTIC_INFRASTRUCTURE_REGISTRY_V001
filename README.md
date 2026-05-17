@@ -579,3 +579,191 @@ Awareness Today · Action Tomorrow · Impact Forever
 GGTC.info_GLOBAL_LINGUISTIC_INFRASTRUCTURE_REGISTRY_V001
 Canonical Global Linguistic Infrastructure Registry
 May 17, 2026
+
+# GGTC.info Public Repository License
+
+## Repository
+GGTC.info_GLOBAL_LINGUISTIC_INFRASTRUCTURE_REGISTRY_V001
+
+---
+
+## License Status
+PUBLIC REPOSITORY
+
+---
+
+## Repository State
+BUILD IN PROGRESS
+
+This repository is an actively developing GGTC.info infrastructure system.
+
+Content, datasets, governance structures, semantic systems, and documentation layers may change as the repository expands.
+
+---
+
+# Copyright Notice
+
+Copyright (c) 2026 GGTC.info  
+GGTC.info · Quibhoball.com · GGTCPUBLISHING.com
+
+All Rights Reserved.
+
+---
+
+# Public Access Notice
+
+This repository is publicly accessible for:
+
+- educational review
+- research reference
+- infrastructure analysis
+- semantic systems study
+- language documentation research
+- governance architecture review
+- continuity systems exploration
+
+---
+
+# Permitted Use
+
+Users MAY:
+
+- view repository content
+- reference repository material with attribution
+- cite publicly available documentation
+- study repository structure
+- analyze governance frameworks
+- review linguistic infrastructure methodologies
+
+---
+
+# Restricted Use
+
+Without explicit written permission from GGTC.info, users MAY NOT:
+
+- commercially redistribute repository content
+- misrepresent authorship
+- duplicate governance systems as original work
+- remove attribution
+- reproduce GGTC.info branding systems
+- create deceptive derivative ecosystem frameworks
+- falsely claim operational affiliation with GGTC.info
+
+---
+
+# Attribution Requirement
+
+All public references to repository content must include:
+
+```text
+GGTC.info
+operations@GGTC.info
+Quibhoball.com
+GGTCPUBLISHING.com
+```
+
+---
+
+# Governance Protection Clause
+
+GGTC.info governance systems, continuity frameworks, semantic infrastructure, operational doctrine structures, dataset architecture, and synchronization systems remain protected intellectual infrastructure.
+
+Public visibility does not transfer:
+- ownership
+- governance authority
+- ecosystem rights
+- branding rights
+- infrastructure control
+
+---
+
+# Dataset + Citation Notice
+
+This repository operates under a strict:
+
+- source-verification model
+- no-Wikipedia policy
+- governance-aligned citation framework
+
+Users are responsible for independently verifying:
+- datasets
+- operational interpretations
+- research conclusions
+- external integrations
+
+---
+
+# Build-In-Progress Notice
+
+This repository is a live-build infrastructure environment.
+
+The following may occur during development:
+
+- schema expansion
+- documentation restructuring
+- dataset normalization
+- governance refinement
+- citation updates
+- machine-readable export changes
+- continuity synchronization updates
+
+Deprecated structures may remain archived for historical continuity.
+
+---
+
+# No Warranty
+
+This repository is provided “as is” without warranty of any kind.
+
+GGTC.info assumes no liability for:
+
+- interpretation outcomes
+- third-party implementation
+- operational misuse
+- infrastructure replication attempts
+- incomplete development-stage systems
+
+---
+
+# Recommended Citation Format
+
+```text
+GGTC.info Publishing Team.
+GGTC.info Global Linguistic Infrastructure Registry V001.
+GGTC.info / Quibhoball.com / GGTCPUBLISHING.com
+2026.
+```
+
+---
+
+# Ecosystem Synchronization
+
+This repository supports synchronization with:
+
+- GGTC.info
+- Quibhoball.com
+- GGTCPUBLISHING.com
+- GGTCGLOBALMEDIA.com
+- GGTCAI.global
+- GGTCUNIVERSE.com
+- GGTCMULTIMULTIVERSE.com
+- GGTCSTEMTRAINING.com
+- GGTCGLOBALAI.com
+
+---
+
+# Official System Signature
+
+GGTC.info  
+Structured Systems · Global Learning · Continuous Development
+
+Awareness Today · Action Tomorrow · Impact Forever
+
+---
+
+# END OF LICENSE
+
+GGTC.info_GLOBAL_LINGUISTIC_INFRASTRUCTURE_REGISTRY_V001
+Public Repository License
+Build In Progress
+2026
